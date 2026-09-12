@@ -28,7 +28,7 @@ template is not legal advice.
 1. Create a new **public** GitHub repository, for example `hex-color-picker-support`.
 2. Copy the contents of this `SupportSite` folder to the root of that repository.
 3. On GitHub, open **Settings → Pages**. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. Wait for GitHub to show the public HTTPS address, usually `https://MustafaMelihDemircioglu.github.io/hex-color-picker-support/`.
+4. Wait for GitHub to show the public HTTPS address, usually `https://meraldemircioglu.github.io/hex-color-picker-support/`.
 5. Put `.../privacy.html` in App Store Connect’s Privacy Policy URL field, and use the site root or `.../index.html` for the Support URL. Add the same Privacy link inside the app.
 
 Optionally use a custom domain after publishing and enforce HTTPS in GitHub Pages settings. Do not place private files, analytics scripts, or secret keys in the public repository.
